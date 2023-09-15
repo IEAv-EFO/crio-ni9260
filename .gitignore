@@ -1,0 +1,20 @@
+# Libraries
+*.lvlibp
+*.llb
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+
+# FPGA compiled files
+*.lvbitx
+
+# Metadata
+*.aliases
+*.lvlps
+.cache/
